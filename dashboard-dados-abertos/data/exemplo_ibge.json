@@ -1,0 +1,16 @@
+[
+  {"estado":"SP","regiao":"Sudeste","ano":2018,"populacao":45919049,"renda":1765.4},
+  {"estado":"RJ","regiao":"Sudeste","ano":2018,"populacao":17264943,"renda":1583.2},
+  {"estado":"MG","regiao":"Sudeste","ano":2018,"populacao":20948761,"renda":1210.5},
+  {"estado":"BA","regiao":"Nordeste","ano":2018,"populacao":15093961,"renda":760.1},
+  {"estado":"RS","regiao":"Sul","ano":2018,"populacao":11377239,"renda":1420.3},
+
+  {"estado":"SP","regiao":"Sudeste","ano":2023,"populacao":46289333,"renda":1820.7},
+  {"estado":"RJ","regiao":"Sudeste","ano":2023,"populacao":17366189,"renda":1601.1},
+  {"estado":"MG","regiao":"Sudeste","ano":2023,"populacao":21411923,"renda":1255.6},
+  {"estado":"BA","regiao":"Nordeste","ano":2023,"populacao":15184046,"renda":792.4},
+  {"estado":"RS","regiao":"Sul","ano":2023,"populacao":11535256,"renda":1455.9},
+  {"estado":"PR","regiao":"Sul","ano":2023,"populacao":11597484,"renda":1399.2},
+  {"estado":"SC","regiao":"Sul","ano":2023,"populacao":7332065,"renda":1532.8},
+  {"estado":"PE","regiao":"Nordeste","ano":2023,"populacao":9860854,"renda":832.0}
+]
