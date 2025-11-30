@@ -21,7 +21,7 @@ Abra o arquivo index.html em seu navegador.
 O projeto é 100% client-side, sem dependências externas.
 
 🌐 Versão Online
-Acesse o dashboard publicado em: https://seu-usuario.vercel.app (substitua pelo link real após deploy)
+Acesse o dashboard publicado em https://pcg4n2dp-dashboard-dados-abertos.vercel.app
 
 📊 Funcionalidades
 Filtros dinâmicos por região, indicador e ano
@@ -53,3 +53,4 @@ As imagens do dashboard estão incluídas no documento acadêmico e na pasta /sc
 Este projeto é de uso acadêmico e segue os princípios de dados abertos. Livre para consulta e adaptação com atribuição.
 
 ---
+
